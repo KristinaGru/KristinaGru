@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my portfolio page](https://github.com/KristinaGru/portfolio)
 
-- 🌱 I’m currently learning **Redux & InfluxDB**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **React projects**
 
