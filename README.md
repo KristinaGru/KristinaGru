@@ -4,10 +4,6 @@
 <img align="right" width="400" style="padding-bottom: 20" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-- 🔭 I’m currently working on [my portfolio page](https://github.com/KristinaGru/portfolio)
-
-- 🌱 I’m currently learning **Python**
-
 - 👯 I’m looking to collaborate on **React projects**
 
 - 🤝 I’m an alumna of [HackYourFuture bootcamp](https://www.hackyourfuture.dk/)
